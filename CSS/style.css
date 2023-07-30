@@ -1,0 +1,22 @@
+#container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  width: 300px;
+  height: 300px;
+}
+h1{
+  font-size: 4em;
+  text-align: center;
+}
+h2,span{
+  font-size: 2em;
+  text-align: center;
+  display: inline-block;
+}
+span{
+  padding: 5px;
+  color: #fff;
+}
